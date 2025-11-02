@@ -1,2 +1,2 @@
 # Calculator-Android-LTS
-This is a calculator for Android (my first working and good Android app). LTS means Long-Term Support. What do I mean by LTS? I mean by supporting even Android 4.1. This calculator is safe and tested on a modern Android.
+This is a calculator for Android (my first working and good Android app). LTS means Long-Term Support. What do I mean by LTS? I mean by supporting even Android 4.1. This calculator is safe and tested on a modern Android. First, install the .zip file, then open it in files. Next, click on the .zip and extract and then, run the .apk (if you get some warnings, enable the untrusted sources in Settings, you can later toggle it off). 
